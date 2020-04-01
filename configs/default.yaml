@@ -1,0 +1,7 @@
+
+model: data/models/deepspeech/output_graph.pbmm
+language_model: data/models/deepspeech/lm.binary
+trie: data/models/deepspeech/trie
+lm_alpha: 0.75
+lm_beta: 1.85
+beam_width: 500

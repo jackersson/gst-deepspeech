@@ -1,0 +1,7 @@
+md5: 018e535aaf289d5341b5153eba62bfa3
+outs:
+- md5: 7423967be98caae08a348a3c674ce20d
+  path: alphabet.txt
+  cache: true
+  metric: false
+  persist: false
